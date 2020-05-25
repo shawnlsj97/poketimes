@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project was created as part of my learning process of React and Redux. It is a simple app that supports CRUD functions and basic navigation.
+
 ## Available Scripts
 
 In the project directory, you can run:
